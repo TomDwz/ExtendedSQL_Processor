@@ -1,0 +1,5 @@
+cust, prod, 1_avg_quant, 2_avg_quant
+2
+cust, prod
+1_avg_quant, 2_avg_quant
+1.cust=cust, 1.prod=prod, 2.cust<>cust, 2.prod=prod

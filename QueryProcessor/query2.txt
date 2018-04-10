@@ -1,0 +1,5 @@
+prod, cust, 1_sum_quant, 2_sum_quant, 3_sum_quant, 3_count_quant, 3_avg_quant
+3
+prod, cust
+1_sum_quant, 2_sum_quant, 3_sum_quant, 3_count_quant, 3_avg_quant
+1.month=10, 2.month<10, 3.month<>10

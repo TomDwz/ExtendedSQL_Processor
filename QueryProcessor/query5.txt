@@ -1,0 +1,5 @@
+cust, 1_sum_quant, 2_sum_quant, 3_sum_quant
+3
+cust
+1_sum_quant, 2_sum_quant, 3_sum_quant
+1.month=10, 2.month<10, 3.month<>10
